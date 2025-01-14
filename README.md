@@ -5,18 +5,27 @@ My name is Sofia Scribner and I'm a senior in the Statistics program at Brigham 
 ## Tools I Use🧰
 
 🔧 **R for Data Science**  
- ➡️ Cleaning and Transforming Data (tidyverse, dplyr)  
+
+ ➡️ Cleaning and Transforming Data (tidyverse, dplyr)
+ 
  ➡️ Exploring and Visualizing Data (ggplot)  
+ 
  ➡️ Confidence Intervals and Hypothesis Tests
+ 
  ➡️ Linear Regression Modeling
+ 
  ➡️ Bayesian Inference
  
 🔧 **Python**  
+
  ➡️ Data Analysis (pandas, numpy) 
+ 
  ➡️ Data Visualization (matplotlib, seaborn)  
 
 🔧 **SQL**  
+
  ➡️ Writing Queries for Data Extraction and Transformation  
+ 
  ➡️ Joins and Aggregations  
 
 ## Interests📊
