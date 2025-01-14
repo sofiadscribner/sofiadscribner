@@ -35,7 +35,9 @@ My interests include:
 
 ## Recent Projects 📈
 
-Bayesian Inference With Baseball Statistics
+Bayesian Inference With Batting Average Statistics
+
+[⚾ Baseball Analysis](https://github.com/sofiadscribner/gibbs-sampling-baseball)
 
 Linear Regression for Ski Resort Pass Pricing
 
