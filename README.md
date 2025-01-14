@@ -41,6 +41,7 @@ Bayesian Inference With Batting Average Statistics
 
 Linear Regression for Ski Resort Pass Pricing
 
+[🚠 Ski Resort Analysis](https://github.com/sofiadscribner/ski-resort-regression)
 
 ## About Me (Outside of Data)🧗🏻‍♀️
 In my limited free time as a full time student and part time tutor, I enjoy:
