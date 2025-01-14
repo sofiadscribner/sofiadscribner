@@ -1,16 +1,52 @@
-## Hi there 👋
+## Hello👋 Happy you found your way here.
 
-<!--
-**sofiadscribner/sofiadscribner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Sofia Scribner and I'm a senior in the Statistics program at Brigham Young University. I want to help businesses make data-driven decisions and gain insight into what their numbers really mean.
 
-Here are some ideas to get you started:
+## Tools I Use🧰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **R for Data Science**  
+ ➡️ Cleaning and Transforming Data (tidyverse, dplyr)  
+ ➡️ Exploring and Visualizing Data (ggplot)  
+ ➡️ Confidence Intervals and Hypothesis Tests
+ ➡️ Linear Regression Modeling
+ ➡️ Bayesian Inference
+ 
+🔧 **Python**  
+ ➡️ Data Analysis (pandas, numpy) 
+ ➡️ Data Visualization (matplotlib, seaborn)  
+
+🔧 **SQL**  
+ ➡️ Writing Queries for Data Extraction and Transformation  
+ ➡️ Joins and Aggregations  
+
+## Interests📊
+
+My interests include: 
+
+  ⭐Marketing Analytics  
+  
+  ⭐Data Visualization 
+  
+  ⭐Predictive Modeling 
+  
+  ⭐Consumer Research
+  
+  ⭐Data Literacy
+
+## Recent Projects 📈
+
+Bayesian Inference With Baseball Statistics
+
+Linear Regression for Ski Resort Pass Pricing
+
+
+## About Me (Outside of Data)🧗🏻‍♀️
+In my limited free time as a full time student and part time tutor, I enjoy:
+
+  ☀️ Rock Climbing (indoor, outdoor, trad, sport, bouldering, all of the above)
+  
+  ☀️ Spending time with my incredible husband and our families
+  
+  ☀️ Hanging out with my pet snake
+  
+  ☀️ Magic the Gathering
