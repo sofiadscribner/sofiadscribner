@@ -52,13 +52,13 @@ Linear Regression for Ski Resort Pass Pricing
 
 [🚠 Ski Resort Analysis](https://github.com/sofiadscribner/ski-resort-regression)
 
-## About Me (Outside of Data)🧗🏻‍♀️
+## About Me (Outside of Data)💻
 In my limited free time as a full time student and part time tutor, I enjoy:
 
-  ☀️ Rock Climbing (indoor, outdoor, trad, sport, bouldering, all of the above)
+  🧗🏻‍♀️ Rock Climbing (indoor, outdoor, trad, sport, bouldering, all of the above)
   
-  ☀️ Spending time with my incredible husband and our families
+  💍 Spending time with my incredible husband and our families
+ 
+  🐍 Hanging out with my pet snake
   
-  ☀️ Hanging out with my pet snake
-  
-  ☀️ Magic the Gathering
+  ✨ Magic the Gathering
