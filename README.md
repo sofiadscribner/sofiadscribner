@@ -20,7 +20,7 @@ My name is Sofia Scribner and I'm a senior in the Statistics program at Brigham 
 
  ➡️ Data Analysis (pandas, numpy) 
  
- ➡️ Data Visualization (matplotlib, seaborn)  
+ ➡️ Data Visualization (matplotlib)  
 
 🔧 **SQL**  
 
