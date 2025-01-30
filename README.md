@@ -42,6 +42,10 @@ My interests include:
   
   ⭐Data Literacy
 
+## Portfolios
+
+[🛍️Marketing Analytics Portfolio (Updated Often!)](https://github.com/sofiadscribner/marketing-analytics-portfolio)
+  
 ## Recent Projects 📈
 
 Bayesian Inference With Batting Average Statistics
