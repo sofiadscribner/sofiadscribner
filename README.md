@@ -42,9 +42,11 @@ My interests include:
   
   ⭐Data Literacy
 
-## Portfolios
+## Portfolios (Updated Often!)
 
-[🛍️Marketing Analytics Portfolio (Updated Often!)](https://github.com/sofiadscribner/marketing-analytics-portfolio)
+[🛍️Marketing Analytics Portfolio](https://github.com/sofiadscribner/marketing-analytics-portfolio)
+
+[🧮Data Science Blog](https://sofiadscribner.github.io/insights-unlocked-blog/index.html)
   
 ## Recent Projects 📈
 
