@@ -12,7 +12,7 @@ My name is Sofia Scribner and I'm a senior in the Statistics program at Brigham 
  
  ➡️ Confidence Intervals and Hypothesis Tests
  
- ➡️ Linear Regression Modeling
+ ➡️ Machine Learning and Linear Regression
  
  ➡️ Bayesian Inference
  
@@ -20,7 +20,9 @@ My name is Sofia Scribner and I'm a senior in the Statistics program at Brigham 
 
  ➡️ Data Analysis (pandas, numpy) 
  
- ➡️ Data Visualization (matplotlib)  
+ ➡️ Data Visualization (matplotlib) 
+
+ ➡️ Deep Learning (pytorch) 
 
 🔧 **SQL**  
 
